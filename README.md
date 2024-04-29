@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on getting my Masters Degree in Computer Science
+- 🌱 Outside of my school classes I am currently learning the basics of reverse engineering and assembly language.
 <!--
 **Bryce72/Bryce72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
