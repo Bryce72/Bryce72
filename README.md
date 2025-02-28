@@ -28,14 +28,6 @@
 ---
 
 
-### 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-
----
-
 
 ### 📊 GitHub Stats
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryce72&show_icons=true&theme=radical)
