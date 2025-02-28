@@ -1,16 +1,44 @@
-### Hi there 👋
-- 🔭 I’m currently working on getting my Masters Degree in Computer Science
-<!--
-**Bryce72/Bryce72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ⚡ Welcome to Bryce's GitHub ⚡ -->
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <code>WELCOME TO MY REPO</code>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+### 🚀 About Me
+
+- 🔬 Cybersecurity / Software Development Enthusiast
+- 📡 Playing with SDR, satellites, and signals
+- 🛠️ Building cool things with **Python, MySQL, Java, and more**
+- 🌌 Space, RF, and data science love all that
+- 🎯 Always up for **a challenge** and **solving hard problems**
+- Machine Learning
+
+---
+
+### 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+---
+
+
+### 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+---
+
+
+### 📊 GitHub Stats
+![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryce72&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryce72&layout=compact&theme=radical)
+
+---
