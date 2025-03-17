@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🔬 Cybersecurity / Software Development Enthusiast
-- 📡 Playing with SDR, satellites, and signals
+- 📡 Experimenting with SDR, satellites, and signals
 - 🛠️ Building cool things with **Python, MySQL, Java, and more**
 - 🌌 Space, RF, and data science love all that
 - 🎯 Always up for **a challenge** and **solving hard problems**
