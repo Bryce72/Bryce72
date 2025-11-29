@@ -1,1 +1,3 @@
-![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryce72&show_icons=true&theme=radical)
+<!-- LANGUAGES BREAKDOWN START -->
+[ LOADING... ]
+<!-- LANGUAGES BREAKDOWN END -->
