@@ -1,3 +1,5 @@
+Live weekly breakdown of my GitHub codebase — auto-generated with cloc + GitHub Actions. These are just stats pulled from my github repos...
+
 <!-- LANGUAGES BREAKDOWN START -->
 ```
 [ LANGUAGES BREAKDOWN ]
