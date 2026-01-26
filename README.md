@@ -1,9 +1,5 @@
-<p align="center" style="font-family: monospace; line-height: 1.2; white-space: pre;">
-__    __     _                           
-/ / /\ \ \___| | ___ ___  _ __ ___   ___  
-\ \/  \/ / _ \ |/ __/ _ \| '_ ` _ \ / _ \ 
- \  /\  /  __/ | (_| (_) | | | | | |  __/ 
-  \/  \/ \___|_|\___\___/|_| |_| |_|\___| 
+<p align="center">
+  <img src="welcome.svg" alt="Welcome ASCII Art" />
 </p>
 
 <p align="center">
