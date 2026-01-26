@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="welcome.svg" alt="Welcome ASCII Art" />
+  <img src="welcome.svg" alt="Welcome ASCII Art" style="width: 100%; max-width: 1000px;" />
 </p>
 
 <p align="center">
