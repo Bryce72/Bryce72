@@ -1,4 +1,4 @@
-<pre>
+<pre style="background: transparent;">
 
 __    __     _                           
 / / /\ \ \___| | ___ ___  _ __ ___   ___  
